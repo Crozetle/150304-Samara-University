@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "6c826f987910385a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca40c7c46ae6aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1d94015b55c909",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52ad43f0d320e4a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "445da1491c9fadc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df018f2baaf1422",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7f32a01d6f809e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "16ec831a73346018",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de8754e9d86e4dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e2185b2ff1346a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a964f21589672625",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "946a642071f19f27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "e0c1bb8437f69b63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "400d3675b7cc3283",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "400d3675b7cc3283",
+  "lastOpenFiles": [
+    "Предметы/Безопасность жизнедеятельности.md",
+    "Новый текстовый документ.txt",
+    "Предметы/Интеллектуальная робототехника.md",
+    "Предметы/Гибкие производственные системы.md",
+    "Предметы/Программное обеспечение ПЛК.md",
+    "Материалы/Курсовые/KURSOVAYa_MATYuNIN 1.docx",
+    "Материалы/Курсовые/KURSOVAYa_MATYuNIN.docx",
+    "KURSOVAYa_MATYuNIN.docx",
+    "Шаблоны/Шаблон предмета.md",
+    "Шаблоны/Шаблон заметки.md",
+    "Материалы/Домашки",
+    "Материалы/Зачет",
+    "Материалы/Экзамен",
+    "Материалы/Курсовые",
+    "Материалы/Лабы",
+    "Материалы",
+    "! Безопасность жизнедеятельности.md",
+    "Шаблоны/Шаблон ежедневной заметки.md",
+    "Шаблоны/Шаблон еженедельной заметки.md",
+    "Добро пожаловать.md"
+  ]
+}
