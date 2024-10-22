@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Семестры": "multitext"
+    "Семестры": "multitext",
+    "Направления": "multitext",
+    "Препод": "multitext"
   }
 }
