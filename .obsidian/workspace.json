@@ -11,10 +11,14 @@
             "id": "2b1d94015b55c909",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Преподы/Шакиров Фарид Мигдэтович.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Шакиров Фарид Мигдэтович"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Преподы/Шакиров Фарид Мигдэтович.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Шакиров Фарид Мигдэтович"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Преподы/Шакиров Фарид Мигдэтович.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Шакиров Фарид Мигдэтович"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Преподы/Шакиров Фарид Мигдэтович.md"
+              },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Шакиров Фарид Мигдэтович"
             }
           }
         ],
@@ -155,18 +163,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "400d3675b7cc3283",
+  "active": "7df018f2baaf1422",
   "lastOpenFiles": [
     "Предметы/Безопасность жизнедеятельности.md",
-    "Новый текстовый документ.txt",
+    "Преподы/Шакиров Фарид Мигдэтович.md",
     "Предметы/Интеллектуальная робототехника.md",
+    "Шаблоны/Шаблон препода.md",
+    "Шаблоны/Шаблон предмета.md",
+    "Шаблоны/Шаблон заметки.md",
+    "Новый текстовый документ.txt",
     "Предметы/Гибкие производственные системы.md",
     "Предметы/Программное обеспечение ПЛК.md",
     "Материалы/Курсовые/KURSOVAYa_MATYuNIN 1.docx",
     "Материалы/Курсовые/KURSOVAYa_MATYuNIN.docx",
     "KURSOVAYa_MATYuNIN.docx",
-    "Шаблоны/Шаблон предмета.md",
-    "Шаблоны/Шаблон заметки.md",
     "Материалы/Домашки",
     "Материалы/Зачет",
     "Материалы/Экзамен",
