@@ -1,0 +1,109 @@
+{
+    "OUTPUTS": [
+        {
+            "ID": 9,
+            "Var": "%QX3.0.4",
+            "Function": "Движение манипулятора к центрифуге",
+            "Name": "O_MOVE_TO_START"
+        },
+        {
+            "ID": 10,
+            "Var": "%QX3.0.5",
+            "Function": "Движение манипулятора к конвееру",
+            "Name": "O_MOVE_TO_END"
+        },
+        {
+            "ID": 11,
+            "Var": "%QX3.0.6",
+            "Function": "Движение манипулятора вниз",
+            "Name": "O_MOVE_DOWN"
+        },
+        {
+            "ID": 12,
+            "Var": "%QX3.0.7",
+            "Function": "Движение манипулятора вверх",
+            "Name": "O_MOVE_UP"
+        },
+        {
+            "ID": 13,
+            "Var": "%QX3.1.0",
+            "Function": "Сжатие манипулятора",
+            "Name": "O_GRIP"
+        },
+        {
+            "ID": 14,
+            "Var": "%QX3.1.1",
+            "Function": "Разжатие манипулятора",
+            "Name": "O_UNGRIP"
+        },
+        {
+            "ID": 17,
+            "Var": "%QX3.1.4",
+            "Function": "Магание подсветки",
+            "Name": "O_ALARM_LIGHT"
+        }
+    ],
+
+    "INPUTS": [
+        {
+            "ID": 1,
+            "Var": "%IX0.0",
+            "Function": "Объект упал в лоток брака",
+            "Name": "IN_PAN_DEFECT"
+        },
+        {
+            "ID": 2,
+            "Var": "%IX0.1",
+            "Function": "Манипулятор находится в верхнем положении",
+            "Name": "IN_MAN_UP"
+        },
+        {
+            "ID": 3,
+            "Var": "%IX0.2",
+            "Function": "Манипулятор находится в нижнем положении",
+            "Name": "IN_MAN_DOWN"
+        },
+        {
+            "ID": 4,
+            "Var": "%IX0.3",
+            "Function": "Манипулятор сжат",
+            "Name": "IN_MAN_GRIP"
+        },
+        {
+            "ID": 5,
+            "Var": "%IX1.0.0",
+            "Function": "Манипулятор разжат",
+            "Name": "IN_MAN_UNGRIP"
+        },
+        {
+            "ID": 6,
+            "Var": "%IX1.0.1",
+            "Function": "Манипулятор находится в начальном положении",
+            "Name": "IN_MAN_START"
+        },
+        {
+            "ID": 7,
+            "Var": "%IX1.0.2",
+            "Function": "Манипулятор находится над лотком брака",
+            "Name": "IN_MAN_MIDDLE"
+        },
+        {
+            "ID": 8,
+            "Var": "%IX1.0.3",
+            "Function": "Манипулятор находится в конечном положении",
+            "Name": "IN_MAN_END"
+        },
+        {
+            "ID": null,
+            "Var": null,
+            "Function": "Обнаружение объекта",
+            "Name": "IN_DETECT_OBJECT"
+        },
+        {
+            "ID": null,
+            "Var": null,
+            "Function": "Обнаружение дефекта в объекте - брак",
+            "Name": "IN_DETECT_DEFECT"
+        }
+    ]
+}
