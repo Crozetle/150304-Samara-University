@@ -25,11 +25,19 @@ def create_file():
         with open(name_file, 'r', encoding="utf-8") as file:
             temp = file.read()
 
-        for i in q:
-            with open(f"{name_file[:-3]} {i}.md", "w", encoding="utf-8") as file:
+        for i, j in enumerate(q):
+            with open(f"{name_file[:-3]} {j}.md", "w", encoding="utf-8") as file:
                 file.write(temp)
 
-            print(f"Был создан и заполнен файл '{name_file[:-3]} {i}.md'")
+                file.write("/n---/n")
+                if i == 0:
+                    i = len(q)-1
+                file.write(f"[[{name_file[:-3]} {q[i-1]}|<< Предыдущий вопрос]]")
+                if i == len(q)-1:
+                    i = 0
+                file.write(f"[[{name_file[:-3]} {q[i+1]}|Следующий вопрос >>]]")
+
+            print(f"Был создан и заполнен файл '{name_file[:-3]} {j}.md'")
 
 def write():
     if input("Хотите дозаписать родительский файл 'Предмет 1 - Подготовка к экзамену'?\n1. ДА\n2.НЕТ\n") == "1":
