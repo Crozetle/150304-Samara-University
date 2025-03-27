@@ -5,6 +5,8 @@
     "tags": "tags",
     "Семестры": "multitext",
     "Направления": "multitext",
-    "Препод": "multitext"
+    "Препод": "multitext",
+    "Закончен": "checkbox",
+    "time creation": "datetime"
   }
 }
