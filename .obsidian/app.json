@@ -1,7 +1,8 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "/",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./"
 }
